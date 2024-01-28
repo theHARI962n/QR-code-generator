@@ -1,6 +1,8 @@
 # QR-code-generator
 
-Generate QR codes from URLs using this simple command-line tool.
+Generate QR codes from URLs using this simple command-line tool.built using nodejs.
+
+used nodejs version v.20.11.0 LTS
 
 ## Prerequisites
 
@@ -31,4 +33,9 @@ npm install inquirer and qr-image for modules and json packages.
 2.qr-image: For generating QR codes.
 
 3.fs: Node.js built-in library for file system operations.
+
+## contact
+1.Email:har6ihar9an@gmail.com
+
+2.Phone:9042590636
 
