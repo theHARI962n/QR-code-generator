@@ -14,11 +14,9 @@ cd qr-code-generator
 
 npm install
 
-Usage
+## Usage
 
 Run the QR code generator:
-bash
-Copy code
 npm start
 Enter a URL when prompted.
 The QR code image (qr_img.png) and the URL text file (URL.txt) will be generated in the project directory.
