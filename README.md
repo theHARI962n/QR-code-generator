@@ -16,7 +16,11 @@ npm install
 
 ## Usage
 
-Run the QR code generator:
-npm start
-Enter a URL when prompted.
-The QR code image (qr_img.png) and the URL text file (URL.txt) will be generated in the project directory.
+1.Run the QR code generator:
+  
+  npm start
+  
+2.Enter a URL when prompted.
+
+3.The QR code image (qr_img.png) and the URL text file (URL.txt) will be generated in the project directory.
+
